@@ -3,8 +3,7 @@
 
 ## ✨ Apresentação
 
-Há 10 anos, uma curiosa em eletrônica e programação, atualmente cursando o ensino técnico em Eletrônica.
-Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de matemática, astronomia e robótica. Gosto de aprender, explorar novos desafios e colaborar em projetos em equipe.
+Atualmente cursando o ensino técnico em Eletrônica, tenho grande interesse por ciência e tecnologia, especialmente nas áreas de matemática, astronomia e robótica. Gosto de aprender, explorar novos desafios e colaborar em projetos em equipe.
 
 ---
 
