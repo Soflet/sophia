@@ -18,8 +18,7 @@ Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de ma
 
 - Boa em colaboração e trabalho em grupo
 - Curiosa, proativa e dedicada
-- Experiência inicial com Python
-- Boa comunicação em inglês
+- Boa comunicação
 
 ---
 
@@ -43,7 +42,11 @@ Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de ma
 
 ## 🛠️ Habilidades Técnicas
 
-- Linguagem Python (nível iniciante)
+- Eletrônica digital
+- Sistemas digitais
+- Experiência com Python (iniciante)
+- Experiência com C/C++ (iniciante)
+- Experiência com projetos utilizando a plataforma Arduino
 - Interesse por programação, eletrônica e projetos maker
 - Familiaridade com conceitos básicos de robótica
 
