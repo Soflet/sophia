@@ -1,11 +1,5 @@
 # [Sophia Lorentz]
 
-**Estudante de Eletrônica **
-📍 Belo Horizonte, MG – Brasil
-💡 Interesses: Matemática, Robótica, Astronomia
-💻 pythonista iniciante | 🤝 Trabalho em equipe
-
----
 
 ## ✨ Apresentação
 
@@ -25,7 +19,7 @@ Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de ma
 ## 📚 Formação
 
 - **Ensino Técnico Integrado em Eletrônica**  
-  *Início em 2025*
+  *Em andamento*
 
 - **Ensino Fundamental**
   *Conclusão em 2023*
@@ -49,6 +43,7 @@ Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de ma
 - Experiência com projetos utilizando a plataforma Arduino
 - Interesse por programação, eletrônica e projetos maker
 - Familiaridade com conceitos básicos de robótica
+- Experiência com soldagem de componentes SMD
 
 ---
 
@@ -56,6 +51,7 @@ Tenho grande interesse por ciência e tecnologia, especialmente nas áreas de ma
 
 - Desenvolvimento de um sistema de controle de clima de casinha de cachorro
 - Desenvolvimento de um dado digital para jogos
+- Montagem de árvore de natal em PCB com soldagem SMD
 
 ---
 
