@@ -50,7 +50,7 @@ Atualmente cursando o ensino técnico em Eletrônica, tenho grande interesse por
 
 - Desenvolvimento de um sistema de controle de clima de casinha de cachorro
 - Desenvolvimento de um dado digital para jogos
-- Montagem de árvore de natal em PCB com soldagem SMD
+- Montagem de estrela para árvore de natal em PCB com componentes SMD
 
 ---
 
